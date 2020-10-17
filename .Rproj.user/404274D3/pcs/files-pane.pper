@@ -1,0 +1,9 @@
+{
+    "path" : "~/abc/nishu",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
